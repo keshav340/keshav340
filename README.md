@@ -13,11 +13,9 @@
 - [LinkedIn](inkedin.com/in/keshav-sharma2/)
 - [Medium](https://medium.com/@datageeks84)
 
-<p><img src='https://visitor-badge.laobi.icu/badge?page_id=keshav340'></p>
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=keshav340&show_icons=true" alt="keshav340">
 </p>
 
+<p><img src='https://visitor-badge.laobi.icu/badge?page_id=keshav340'></p>
 
 

@@ -1,12 +1,16 @@
-### Hi there  👋
+
+<hi align = "center"<Hi there, I am Keshav Sharma 👋</h1>
+- 🔭 I’m currently studying in Graphic era university.
+- 🌱 I’m currently learning full stack devlopment.
+- 👯 I’m looking to collaborate on Machine Learning.
+- 🤔 I’m looking for help in full stack devlopment.
+- 💬 Ask me about Machine Learning .
+- 📫 How to reach me: keshavsharma.cse@geu.ac.in
+- 😄 Pronouns: He/Him
+
+## You can Connect with me 🌍
+- [Instagram](https://www.instagram.com/_keshav_sharma_0/)
+- [LinkedIn](inkedin.com/in/keshav-sharma2/)
+- [Medium](https://medium.com/@datageeks84)
 
 
-I'm currently pursuing BTech CSE with a specialization in data science and A.I in graphic era university.
-I'm currently working on Analytics Vidhya as a tech writer
-I'm Looking forward to collaborating on a deep learning project.
-My skills are 
-Machine learning
-deep learning
-Docker
-Jenkins
-You can me  reach out through Linkedin profile https://www.linkedin.com/in/keshav-sharma-24615318a/

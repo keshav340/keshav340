@@ -10,7 +10,7 @@
 
 ## You can Connect with me 🌍
 - [Instagram](https://www.instagram.com/_keshav_sharma_0/)
-- [LinkedIn](inkedin.com/in/keshav-sharma2/)
+- [LinkedIn](linkedin.com/in/keshav-sharma2/)
 - [Medium](https://medium.com/@datageeks84)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=keshav340'></p>

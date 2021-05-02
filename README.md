@@ -1,7 +1,7 @@
 
 <hi align = "center">Hi there, I am Keshav Sharma 👋</h1>
 
-<img align="right" alt="GIF" src="https://github.com/keshav340/keshav340/blob/master/techstack.gif" width="360px"/>
+
 
 - 🔭 I’m currently studying in Graphic era university.
 - 🌱 I’m currently learning full stack devlopment.

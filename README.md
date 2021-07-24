@@ -1,7 +1,7 @@
 
 <hi align = "center">Hi there, I am Keshav Sharma 👋</h1>
 
-<img align="right" width="400" height="280" src="https://github.com/keshav340/keshav340/blob/master/techstack.gif"></img>
+<img align="right" width="400" height="200" src="https://github.com/keshav340/keshav340/blob/master/techstack.gif"></img>
 
 - 🔭 I’m currently studying in Graphic era university.
 - 🌱 I’m currently learning full stack devlopment.
@@ -10,7 +10,7 @@
 - 💬 Ask me about Machine Learning .
 - 📫 How to reach me: keshavsharma.cse@geu.ac.in
 - 😄 Pronouns: He/Him
-<br>
+
 ## You can Connect with me 🌍
 - [Instagram](https://www.instagram.com/_keshav_sharma_0/)
 - [LinkedIn](linkedin.com/in/keshav-sharma2/)

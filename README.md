@@ -21,8 +21,8 @@
 </p>
   <br/>
   <br/>
----
-### 📝 BLOG POSTS 📝
+  
+  📝 BLOG POSTS 📝
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

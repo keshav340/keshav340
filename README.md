@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Keshav Sharma</h1>
-<h3 align="center">An Open Source Contributor, Researcher,  Data science ☁ & A Competitive Programmer</h3>
+<h3 align="center">An Open Source Contributor,   Data science ☁ & A Competitive Programmer</h3>
 
 
 <img align="right" width="400" height="200" src="https://github.com/keshav340/keshav340/blob/master/techstack.gif"></img>

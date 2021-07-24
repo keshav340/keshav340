@@ -19,7 +19,7 @@
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=keshav340'></p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=keshav340&show_icons=true&theme=solarized-dark" alt="keshav340">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav340&layout=compact&theme=radical)](https://keshav340/github-readme-stats)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=keshav340&layout=compact&theme=solarized-dark " alt = "keshav340">
 
 </p>
 

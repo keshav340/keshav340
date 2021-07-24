@@ -20,7 +20,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=keshav340&show_icons=true&layout=compact&theme=solarized-dark" alt="keshav340">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=keshav340&layout=compact&theme=solarized-dark&langs_count=6 " alt = "keshav340">
- [![Keshav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keshav340)](https://github.com/anuraghazra/github-readme-stats)
+ <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=keshav340&layout=compact&theme=solarized-dark" alt = "keshav340">
 
 </p>
 

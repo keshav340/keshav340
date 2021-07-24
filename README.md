@@ -10,7 +10,7 @@
 - 💬 Ask me about Machine Learning .
 - 📫 How to reach me: keshavsharma.cse@geu.ac.in
 - 😄 Pronouns: He/Him
-
+<br>
 ## You can Connect with me 🌍
 - [Instagram](https://www.instagram.com/_keshav_sharma_0/)
 - [LinkedIn](linkedin.com/in/keshav-sharma2/)

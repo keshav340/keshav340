@@ -1,7 +1,7 @@
 
 <hi align = "center">Hi there, I am Keshav Sharma 👋</h1>
 
-
+<img align="right" width="400" height="280" src="https://github.com/keshav340/keshav340/blob/master/techstack.gif"></img>
 
 - 🔭 I’m currently studying in Graphic era university.
 - 🌱 I’m currently learning full stack devlopment.
@@ -20,8 +20,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=keshav340&show_icons=true&layout=compact&theme=solarized-dark" alt="keshav340">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=keshav340&layout=compact&theme=solarized-dark&langs_count=6 " alt = "keshav340">
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keshav340)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 
 </p>
 

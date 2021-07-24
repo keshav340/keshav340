@@ -1,5 +1,5 @@
 
-<hi align = "center">Hi there, I am Keshav Sharma 👋</h1>
+<h1 align="center">Hi 👋, I'm Keshav Sharma</h1>
 <h3 align="center">An Open Source Contributor, Data science ☁ & A Competitive Programmer</h3>
 
 

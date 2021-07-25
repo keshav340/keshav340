@@ -24,8 +24,7 @@
   
   📝 BLOG POSTS 📝
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 <table>
 <table width="500" border="1">
 <tr><th bgcolor="yellow">Blog Name</th><th>Blog URL</th></tr>

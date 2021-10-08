@@ -28,7 +28,7 @@
 <table>
 <table width="500" border="1">
 <tr><th bgcolor="yellow">Blog Name</th><th>Blog URL</th></tr>
-<tr><td><b>Virtualization to Containers </b></td> <td><a href="https://datageeks84.medium.com/virtualization-to-containers-807c152de016" target="_blank">Click Here</a></td></tr>
+<tr><td><b>Convolutional Neural Network(CNN) </b></td> <td><a href="https://datageeks84.medium.com/convolutional-neural-network-cnn-945a76de961c" target="_blank">Click Here</a></td></tr>
 	
 <tr><td><b>Face Recognition using Transfer learning </b></td> <td><a href="https://medium.com/analytics-vidhya/face-recoginition-using-transfer-learning-15c39b1d1618" target="_blank">Click Here</a></td></tr>
 
